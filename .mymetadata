@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="DemoProAndXML"
+  id="myeclipse.1442059609555"
+  context-root="/DemoProAndXML"
+  j2ee-spec="5.0"
+  archive="DemoProAndXML.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
